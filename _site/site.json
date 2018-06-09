@@ -1,0 +1,50 @@
+{
+  "baseUrl": "/website-base",
+  "ignore": [
+    "_site/*",
+    ".idea/*",
+    ".gitignore",
+    "README.md",
+    "schedule/admin/*",
+    "*.md",
+    "diagrams/*",
+    "book/diagrams/*",
+    ".git/*"
+  ],
+  "pages": [
+    {
+      "glob": "**/index.md"
+    },
+    {
+      "glob": "**/projectList.md"
+    },
+    {
+      "glob": "**/tutorialSchedule.md"
+    },
+    {
+      "glob": "**/index.html"
+    },
+    {
+      "glob": "**/acknowledgements.md"
+    },
+    {
+      "glob": "**/usage.md"
+    },
+    {
+      "glob": "**/print.md"
+    },
+    {
+      "glob": "**/all.md"
+    },
+    {
+      "glob": "**/definitions.md"
+    },
+    {
+      "glob": "**/outcomes.md"
+    },
+    {
+      "glob": "**/references.md"
+    }
+  ],
+  "titlePrefix": "CS2103/T Website"
+}
