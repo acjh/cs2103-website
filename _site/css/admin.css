@@ -1,0 +1,34 @@
+.website-content {
+    margin: 12px auto 40px auto;
+    max-width: 800px;
+    overflow: hidden;
+    text-align:justify
+}
+
+h1{
+    color:purple;
+}
+
+h2{
+    color:purple;
+}
+
+h3{
+    color:purple;
+}
+
+.indented {
+    padding-left: 20px;
+}
+
+.indented-level2 {
+    padding-left: 40px;
+}
+
+.indented-level3 {
+    padding-left: 60px;
+}
+
+.flat {
+    display: none;
+}

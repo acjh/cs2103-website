@@ -1,0 +1,65 @@
+2018-08-05T07:00:52.354Z - error: uncaughtException: Cannot find module 'markdown-it-linkify-images' date=Sun Aug 05 2018 15:00:52 GMT+0800 (+08), pid=6531, uid=501, gid=20, cwd=/Users/aaron/Desktop/website, execPath=/usr/local/bin/node, version=v9.3.0, argv=[/usr/local/bin/node, /usr/local/bin/markbind, serve], rss=61415424, heapTotal=40726528, heapUsed=24874328, external=129597, loadavg=[1.57373046875, 1.34130859375, 1.23193359375], uptime=4971
+Error: Cannot find module 'markdown-it-linkify-images'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/aaron/Desktop/markbind/lib/markbind/lib/markdown-it/index.js:26:8)
+    at Module._compile (module.js:660:30)
+    at Object.Module._extensions..js (module.js:671:10)
+    at Module.load (module.js:573:32)
+    at tryModuleLoad (module.js:513:12)
+    at Function.Module._load (module.js:505:3)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/aaron/Desktop/markbind/lib/markbind/lib/parser.js:20:12)
+    at Module._compile (module.js:660:30)
+    at Object.Module._extensions..js (module.js:671:10)
+    at Module.load (module.js:573:32)
+2018-08-05T07:01:10.049Z - error: uncaughtException: Cannot find module 'markdown-it-linkify-images' date=Sun Aug 05 2018 15:01:10 GMT+0800 (+08), pid=6533, uid=501, gid=20, cwd=/Users/aaron/Desktop/website, execPath=/usr/local/bin/node, version=v9.3.0, argv=[/usr/local/bin/node, /usr/local/bin/markbind, -v], rss=61181952, heapTotal=40726528, heapUsed=24751456, external=129597, loadavg=[1.2919921875, 1.291015625, 1.2158203125], uptime=4989
+Error: Cannot find module 'markdown-it-linkify-images'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/aaron/Desktop/markbind/lib/markbind/lib/markdown-it/index.js:26:8)
+    at Module._compile (module.js:660:30)
+    at Object.Module._extensions..js (module.js:671:10)
+    at Module.load (module.js:573:32)
+    at tryModuleLoad (module.js:513:12)
+    at Function.Module._load (module.js:505:3)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/aaron/Desktop/markbind/lib/markbind/lib/parser.js:20:12)
+    at Module._compile (module.js:660:30)
+    at Object.Module._extensions..js (module.js:671:10)
+    at Module.load (module.js:573:32)
+2018-08-05T07:01:17.710Z - error: uncaughtException: Cannot find module 'markdown-it-linkify-images' date=Sun Aug 05 2018 15:01:17 GMT+0800 (+08), pid=6534, uid=501, gid=20, cwd=/Users/aaron/Desktop/website, execPath=/usr/local/bin/node, version=v9.3.0, argv=[/usr/local/bin/node, /usr/local/bin/markbind], rss=60960768, heapTotal=40726528, heapUsed=24665696, external=129597, loadavg=[1.25341796875, 1.28125, 1.212890625], uptime=4996
+Error: Cannot find module 'markdown-it-linkify-images'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/aaron/Desktop/markbind/lib/markbind/lib/markdown-it/index.js:26:8)
+    at Module._compile (module.js:660:30)
+    at Object.Module._extensions..js (module.js:671:10)
+    at Module.load (module.js:573:32)
+    at tryModuleLoad (module.js:513:12)
+    at Function.Module._load (module.js:505:3)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/Users/aaron/Desktop/markbind/lib/markbind/lib/parser.js:20:12)
+    at Module._compile (module.js:660:30)
+    at Object.Module._extensions..js (module.js:671:10)
+    at Module.load (module.js:573:32)
+2018-08-05T07:03:25.005Z - info: Website generation started at 15:03:24
+2018-08-05T07:03:25.416Z - info: Building assets...
+2018-08-05T07:03:25.819Z - info: Assets built
+2018-08-05T07:03:25.820Z - info: Generating pages...
+2018-08-05T07:04:19.653Z - info: Pages built
+2018-08-05T07:04:19.664Z - info: Site data built
+2018-08-05T07:04:19.665Z - info: Website generation complete! Total build time: 54.684s
+2018-08-05T07:04:19.665Z - info: Build success!
+2018-08-05T07:04:19.665Z - info: Generate Site durationMs=54684
+2018-08-05T07:05:15.164Z - info: Website generation started at 15:05:14
+2018-08-05T07:05:15.423Z - info: Building assets...
